@@ -1,5 +1,9 @@
 # Woovi Prompts — Biblioteca de Prompts para Integração com a Woovi
 
+> 🌐 **Languages:** **Português (este arquivo)** · [English](./README.en.md)
+>
+> Os prompts estão disponíveis em duas pastas: [`prompts/`](./prompts) (PT-BR) e [`prompts-en/`](./prompts-en) (EN). O conteúdo técnico é idêntico — escolha o idioma que sua equipe/IA preferir.
+
 Coleção de prompts em português, prontos para uso com **ferramentas de IA generativa** (Claude, ChatGPT, Lovable, Cursor, v0, Bolt, Windsurf, Copilot Workspace etc.) para gerar código de integração com a [Woovi](https://woovi.com) — a plataforma brasileira de Pix.
 
 Cada arquivo em [`prompts/`](./prompts) contém um prompt **autocontido**, com:
